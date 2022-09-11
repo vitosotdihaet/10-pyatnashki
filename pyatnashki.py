@@ -18,7 +18,7 @@ def print_field(f):
                 print(j, ' ', end='')
             else:
                 print(j, end=' ')
-        print('\n', end='')
+        print()
 
 
 print_field(field)
